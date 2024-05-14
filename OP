@@ -1,0 +1,39 @@
+
+var nome = "Iago";
+var idade = 16;
+
+//const
+const PI = 3.14;
+const URL = "www.site.com";
+
+// let
+let saldo = 50;
+let produto = "Produto";
+
+
+
+nome = "Iago"
+Sobrenome = "Daniel"
+
+valor = "100"
+Item = "CD"
+
+dia = "20"
+Horas = "13"
+
+
+//mais
+let soma1 = 5 + 3;
+let soma2 = 10 + 20; 
+//menos
+let diferenca1 = 10 - 4; 
+let diferenca2 = 100 - 75; 
+//vezes
+let produto1 = 6 * 7; 
+let produto2 = 9 * 5; 
+//divisao
+let quociente1 = 20 / 4; 
+let quociente2 = 100 / 10; 
+//por cento
+let resto1 = 10 % 3; 
+let resto2 = 20 % 7; 
